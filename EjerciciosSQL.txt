@@ -571,3 +571,5 @@ DIFICULTAD: Berserk mode (enunciados simples, mucha diversión...)
 	GROUP BY
 		MOVIERENTALS.MOVIE_NAME,
 		MOVIERENTALS.MEMBER_NAME
+
+FIN DE LOS EJERCICIOS
